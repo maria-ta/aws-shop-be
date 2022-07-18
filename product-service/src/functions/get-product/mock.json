@@ -1,0 +1,7 @@
+{
+  "resource": "/",
+  "pathParameters": {
+    "id": "product-1"
+  },
+  "httpMethod": "GET"
+}
